@@ -20,11 +20,11 @@ env/
 .vscode/
 
 # Data files
-#Data/Processed/
+Data/
 tests/
 
 # Generated figures
-#Doc/figure/
+Doc/figure/
 
 # Logs
 *.log
