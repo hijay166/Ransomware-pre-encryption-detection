@@ -55,6 +55,7 @@ System-level indicators of compromise (IOCs)
 Dataset was gotten from kaggle : https://www.kaggle.com/datasets/zirarikhalid/ransomware-detection-dataset .
 
 🗂️ Project Structure
+
 Ransomware-pre-encryption-detection/
 │
 ├── Data/
